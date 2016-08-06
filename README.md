@@ -1,4 +1,5 @@
 # Yatta
 I did it.
+Real Yattas
 
-![You fucking broke the readme](https://cdn.discordapp.com/emojis/209484249517129732.png)
+![SmAg](https://i.imgur.com/Rx3C1Dy.png)
